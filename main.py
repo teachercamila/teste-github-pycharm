@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Testando o github com Pycharm')
     print('segundo commit')
+    print('terceiro commit')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
